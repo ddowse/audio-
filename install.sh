@@ -1,5 +1,4 @@
 #!/bin/sh
-apt-get update
 git clone https://github.com/yangxiaohua2009/custom-kernel.git
 cd custom-kernel
 cat kernel.* > kernelnew.zip
